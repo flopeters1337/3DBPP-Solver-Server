@@ -1,0 +1,33 @@
+{
+	"bins": [
+		{
+			"name": "Bin_A",
+			"items": [
+				{
+					"name": "Item_A",
+					"width": 100,
+					"height": 100,
+					"depth": 100,
+					"x": "0.0",
+					"y": "0.0",
+					"z": "0.0",
+					"rotation_x": "0.0",
+					"rotation_y": "0.0",
+					"rotation_z": "0.0"
+				},
+				{
+					"name": "Item_B",
+					"width": 100,
+					"height": 200,
+					"depth": 100,
+					"x": "0.0",
+					"y": "0.0",
+					"z": "0.0",
+					"rotation_x": "0.0",
+					"rotation_y": "0.0",
+					"rotation_z": "0.0"
+				}
+			]
+		}
+	]
+}

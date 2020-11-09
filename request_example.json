@@ -1,0 +1,34 @@
+{
+	"items": [
+		{
+			"name": "Small box",
+			"width": 100,
+			"height": 100,
+			"depth": 100,
+			"weight": 1
+		},
+		{
+			"name": "Large box",
+			"width": 300,
+			"height": 200,
+			"depth": 300,
+			"weight": 3
+		}
+	],
+	"bins": [
+		{
+			"name": "Square bin",
+			"width": 1000,
+			"height": 1000,
+			"depth": 1000,
+			"max_weight": 100
+		},
+		{
+			"name": "Tall bin",
+			"width": 500,
+			"height": 2000,
+			"depth": 500,
+			"max_weight": 200
+		}
+	]
+}
